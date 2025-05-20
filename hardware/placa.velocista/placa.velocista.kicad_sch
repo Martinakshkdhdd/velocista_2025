@@ -3561,6 +3561,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 48.26) (xy 69.85 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff91fdc-ab98-45eb-83c3-8b0455532725")
+	)
+	(wire
+		(pts
 			(xy 224.79 27.94) (xy 228.6 27.94)
 		)
 		(stroke
@@ -3668,16 +3678,6 @@
 			(type default)
 		)
 		(uuid "95d1ddf3-0297-4678-a3b2-4d06b426d4b4")
-	)
-	(wire
-		(pts
-			(xy 82.55 50.8) (xy 82.55 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "97845b94-67e0-407a-af41-1291435d1e54")
 	)
 	(wire
 		(pts
@@ -3851,6 +3851,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 48.26) (xy 82.55 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbf811d8-ea15-4cc6-b29c-4d0e6a4f0444")
+	)
+	(wire
+		(pts
 			(xy 228.6 68.58) (xy 228.6 63.5)
 		)
 		(stroke
@@ -3868,16 +3878,6 @@
 			(type default)
 		)
 		(uuid "d009f078-0d41-44c8-bc52-854adcfbf9de")
-	)
-	(wire
-		(pts
-			(xy 82.55 48.26) (xy 69.85 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4ea0929-68c5-4ed4-acb9-29f458c65db9")
 	)
 	(wire
 		(pts
@@ -4311,7 +4311,7 @@
 			(uuid "284ef26a-530d-4193-9717-45981f14063b")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C2")
 					(unit 1)
@@ -4381,7 +4381,7 @@
 			(uuid "25f4c6bd-668d-46a0-9d1c-a7c04e7ec0a8")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "led1")
 					(unit 1)
@@ -4548,7 +4548,7 @@
 			(uuid "6c3f81c5-9442-45e9-a10d-aaadbf332454")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "MOTOR1")
 					(unit 1)
@@ -4628,7 +4628,7 @@
 			(uuid "1e91cb8e-2eab-4935-afc9-6faa84ed5eed")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "bornerabateria1")
 					(unit 1)
@@ -4693,7 +4693,7 @@
 			(uuid "d5eecc17-1964-40a1-84f2-8bcb76957b26")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR09")
 					(unit 1)
@@ -4810,7 +4810,7 @@
 			(uuid "2ed4c28b-af2d-4267-8fa9-1f04e71e9d37")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C7")
 					(unit 1)
@@ -4881,7 +4881,7 @@
 			(uuid "36d22015-4d65-4212-8bf7-e2e2af0f2330")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "SW2")
 					(unit 1)
@@ -4951,7 +4951,7 @@
 			(uuid "450302fa-3359-4542-b385-c180e1b01f51")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C5")
 					(unit 1)
@@ -5019,7 +5019,7 @@
 			(uuid "9100ce51-1758-4e49-a7c0-f1da51c029ba")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "SW3")
 					(unit 1)
@@ -5091,7 +5091,7 @@
 			(uuid "62a57fb1-db80-43bf-9bb8-903e34fa48fd")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "U2")
 					(unit 1)
@@ -5157,7 +5157,7 @@
 			(uuid "d49cf3ba-d811-457a-b555-1c254f96498b")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR028")
 					(unit 1)
@@ -5224,7 +5224,7 @@
 			(uuid "7eb01ee3-d68e-40c3-9449-47a33d1389d8")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "tornillo1")
 					(unit 1)
@@ -5400,7 +5400,7 @@
 			(uuid "ce08e437-8a9b-4084-b8ff-5ea3988efb8d")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "U1")
 					(unit 1)
@@ -5472,7 +5472,7 @@
 			(uuid "661c28e2-2a24-4570-b992-13130d0c280e")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "bormo1")
 					(unit 1)
@@ -5555,7 +5555,7 @@
 			(uuid "52931053-0acf-45aa-aa9b-d3aa17785f14")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "J1")
 					(unit 1)
@@ -5620,7 +5620,7 @@
 			(uuid "0a76b0e7-870a-433f-a141-051399038d4c")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR022")
 					(unit 1)
@@ -5692,7 +5692,7 @@
 			(uuid "b7ee01ce-57b5-489b-9650-3eca5c979d02")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "J5")
 					(unit 1)
@@ -5760,7 +5760,7 @@
 			(uuid "9c1fa5b7-1e36-43d1-90a3-5cca556c08a2")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "led2")
 					(unit 1)
@@ -5830,7 +5830,7 @@
 			(uuid "35400e82-9dfe-4a9e-b6ec-6837a8439fa5")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "resistencialed1")
 					(unit 1)
@@ -5896,7 +5896,7 @@
 			(uuid "aee077e3-fa50-4744-b811-ac787fd68105")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR02")
 					(unit 1)
@@ -5975,7 +5975,7 @@
 			(uuid "05c31aa2-67a9-4ba3-a655-e86177d9f5d3")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C4")
 					(unit 1)
@@ -6043,7 +6043,7 @@
 			(uuid "b6e99337-92e9-4c76-9d6f-b3bbc34f7e5d")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "r2")
 					(unit 1)
@@ -6108,7 +6108,7 @@
 			(uuid "d02f95cb-47fb-45e3-8de7-5d704fc82746")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR08")
 					(unit 1)
@@ -6174,7 +6174,7 @@
 			(uuid "0849dcd1-38ba-4da7-807d-c67098287730")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR03")
 					(unit 1)
@@ -6240,7 +6240,7 @@
 			(uuid "e5887e0d-4fba-4b16-8b22-4457f75656b1")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR018")
 					(unit 1)
@@ -6407,7 +6407,7 @@
 			(uuid "3b8e5fe9-5907-4139-996b-95e5d9c2024e")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "MOTOR2")
 					(unit 1)
@@ -6472,7 +6472,7 @@
 			(uuid "f33c4c90-3b34-4e5b-8549-8c9f65308c49")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR027")
 					(unit 1)
@@ -6538,7 +6538,7 @@
 			(uuid "5b0d0fa8-fabd-48b5-9a69-d5a7535d6a03")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR05")
 					(unit 1)
@@ -6603,7 +6603,7 @@
 			(uuid "3753eb33-c110-4cef-a380-d1f05f05dafd")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR026")
 					(unit 1)
@@ -6669,7 +6669,7 @@
 			(uuid "8d9c871b-54a7-450c-81e4-c2d2021362f8")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR01")
 					(unit 1)
@@ -6736,7 +6736,7 @@
 			(uuid "751e1476-eec4-4eb0-b709-45016e7f7f73")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "tornillo2")
 					(unit 1)
@@ -6802,7 +6802,7 @@
 			(uuid "b64563e6-dd06-4b79-ad35-b372346460be")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR04")
 					(unit 1)
@@ -6812,7 +6812,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 50.8 0)
+		(at 82.55 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6820,7 +6820,7 @@
 		(dnp no)
 		(uuid "ef34b290-6881-4524-a1b2-fe7a9ffe5243")
 		(property "Reference" "#PWR021"
-			(at 82.55 57.15 0)
+			(at 82.55 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6829,7 +6829,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 84.836 50.8 0)
+			(at 84.836 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6837,7 +6837,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 50.8 0)
+			(at 82.55 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6846,7 +6846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 50.8 0)
+			(at 82.55 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6855,7 +6855,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 50.8 0)
+			(at 82.55 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6867,7 +6867,7 @@
 			(uuid "8c4a7768-f317-4e73-8b1a-3bde40674392")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR021")
 					(unit 1)
@@ -6937,7 +6937,7 @@
 			(uuid "8dd0cf0f-5d5e-4331-bdd5-fa937375e026")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C6")
 					(unit 1)
@@ -7055,7 +7055,7 @@
 			(uuid "9073d19a-f0c5-45b2-b6c5-21af4bf6e338")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "C11")
 					(unit 1)
@@ -7121,7 +7121,7 @@
 			(uuid "aa42536e-6c13-4d72-a723-021d0acc4c39")
 		)
 		(instances
-			(project "prueba"
+			(project "placa.velocista"
 				(path "/e9a6587a-a008-4af3-9779-5cd29ce76923"
 					(reference "#PWR020")
 					(unit 1)
